@@ -4,63 +4,63 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://s40723147.github.io/cad2019ag4/blog/index.html/</loc>
-<lastmod>2019-11-15T10:32:53-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2019-11-15T11:06:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723147.github.io/cad2019ag4/blog/index.html/archives.html</loc>
-<lastmod>2019-11-15T10:32:53-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2019-11-15T11:06:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723147.github.io/cad2019ag4/blog/index.html/tags.html</loc>
-<lastmod>2019-11-15T10:32:53-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2019-11-15T11:06:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723147.github.io/cad2019ag4/blog/index.html/categories.html</loc>
-<lastmod>2019-11-15T10:32:53-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2019-11-15T11:06:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723147.github.io/cad2019ag4/blog/index.html/pages/about/</loc>
+<loc>./pages/about/</loc>
 <lastmod>2019-11-15T10:14:30+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723147.github.io/cad2019ag4/blog/index.html/2018-Fall-32-bit-Windows.html</loc>
+<loc>./2018-Fall-32-bit-Windows.html</loc>
 <lastmod>2019-11-15T10:26:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723147.github.io/cad2019ag4/blog/index.html/category/misc.html</loc>
+<loc>./category/misc.html</loc>
 <lastmod>2019-11-15T10:26:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723147.github.io/cad2019ag4/blog/index.html/tag/2019cad.html</loc>
+<loc>./tag/2018fallcp.html</loc>
 <lastmod>2019-11-15T10:26:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40723147.github.io/cad2019ag4/blog/index.html/author/ag4.html</loc>
+<loc>./author/ag4.html</loc>
 <lastmod>2019-11-15T10:26:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
